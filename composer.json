@@ -1,0 +1,10 @@
+{
+    "require": {
+       "microsoft/azure-storage-blob": "*",
+       "microsoft/azure-storage-table": "*",
+       "microsoft/azure-storage-queue": "*",
+       "microsoft/azure-storage-file": "*",
+       "guzzlehttp/psr7": "^1.7",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
